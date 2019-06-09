@@ -232,7 +232,7 @@ header{
   text-transform: uppercase;
   color: black;
   text-align: center;
-  border: 
+  border-right: 1px solid #ccc; 
 }
 
 /*////////// LOGO //////////*/
