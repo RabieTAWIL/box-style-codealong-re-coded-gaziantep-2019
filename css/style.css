@@ -44,7 +44,7 @@ figcaption {
 }
 
 .light-fade{
-  background: #efefef; /* Old browsers */
+background: #efefef; /* Old browsers */
 background: -moz-linear-gradient(
   top,
   #efefef 0%,
